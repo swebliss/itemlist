@@ -29,7 +29,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 4500,
       "removePrice": 5500,
       "degree": 0,
       "description": "Timmy gets a rush from hurting people, and never minds the sight of blood or death. he is four times as likely to start a social fight as others.",
@@ -129,7 +129,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 3800,
       "removePrice": 5500,
       "degree": 0,
       "description": "Timmy was taught that eating human meat is wrong and horrible. But one time, long ago, he tried it... and he liked it.",
@@ -349,7 +349,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 2000,
       "removePrice": 5500,
       "degree": 0,
       "description": "For Timmy, it's degrading to have a less impressive bedroom than someone else. he gets a mood loss if any colonist has a more impressive bedroom.",
@@ -410,18 +410,18 @@
           "x50% global certainty loss factor"
         ],
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
         "karmaTypeForAdding": null
       },
       "defName": "Ascetic",
-      "name": "ascetic"
+      "name": "minimalism"
     },
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 2500,
       "removePrice": 5500,
       "degree": 0,
       "description": "Timmy is romantically attracted to people of his own gender.",
@@ -443,7 +443,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 4500,
       "removePrice": 5500,
       "degree": 0,
       "description": "Timmy is romantically attracted to both men and women.",
@@ -509,7 +509,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 2700,
       "removePrice": 5500,
       "degree": 0,
       "description": "Timmy breathes heavily all the time, and sweats constantly. People find it creepy.",
@@ -529,7 +529,7 @@
       "name": "creepybreathing"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 5500,
@@ -557,7 +557,7 @@
       "name": "pyromaniac"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 5500,
@@ -621,7 +621,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 7000,
       "removePrice": 5500,
       "degree": 0,
       "description": "Timmy has a knack for learning. he picks things up much faster than others.",
@@ -733,7 +733,7 @@
       "name": "bodymodder"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 5500,
@@ -776,13 +776,13 @@
         ],
         "stats": [],
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
         "karmaTypeForAdding": null
       },
       "defName": "DislikesMen",
-      "name": "misandrist"
+      "name": "manhater"
     },
     {
       "canAdd": true,
@@ -887,7 +887,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 3450,
       "removePrice": 5500,
       "degree": 0,
       "description": "Timmy's life revolves around food. he gets hungry quickly, and will occasionally be overcome with the urge to eat ravenously, even when not hungry.",
@@ -919,7 +919,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 45005,
       "removePrice": 5500,
       "degree": 0,
       "description": "Timmy doesn't need as much sleep as the average person. Whether he's sleeping on a bed or on the ground, he will be fully rested in about two thirds the usual time.",
@@ -973,7 +973,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 3950,
       "removePrice": 5500,
       "degree": 1,
       "description": "Timmy likes to be where he's going. he walks quicker than most people.",
@@ -999,7 +999,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 4000,
       "removePrice": 5500,
       "degree": 2,
       "description": "Timmy always moves with a sense of urgency - so much so that others often fail to keep up.",
@@ -1023,7 +1023,7 @@
       "name": "jogger"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 5500,
@@ -1045,7 +1045,7 @@
       "name": "chemicalfascination"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 5500,
@@ -1067,7 +1067,7 @@
       "name": "chemicalinterest"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 5500,
@@ -1161,7 +1161,7 @@
       "name": "pessimist"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 5500,
@@ -1185,7 +1185,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 3900,
       "removePrice": 5500,
       "degree": 2,
       "description": "Timmy's will is an iron shield. he keeps going through thick and thin, when others broke down long before.",
@@ -1361,7 +1361,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 5000,
       "removePrice": 5500,
       "degree": 2,
       "description": "Timmy has an easy time staying on-task and focused, and gets things done much faster than the average person.",
@@ -1437,7 +1437,7 @@
       "name": "lazy"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 5500,
@@ -1569,7 +1569,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 3000,
       "removePrice": 5500,
       "degree": 1,
       "description": "Timmy takes more time to aim when shooting. he shoots less often than others, but with more accuracy.",
@@ -1633,7 +1633,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 4000,
       "removePrice": 5500,
       "degree": 2,
       "description": "Timmy is exceptionally beautiful, with an exotic-yet-familiar facial structure and an arresting gaze. People are attracted to him before he even opens his mouth.",
@@ -1685,7 +1685,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 2000,
       "removePrice": 5500,
       "degree": -1,
       "description": "Timmy is somewhat ugly. This subtly repels others during social interactions.",
@@ -1711,7 +1711,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 3000,
       "removePrice": 5500,
       "degree": -2,
       "description": "Timmy is staggeringly ugly. his face looks like a cross between a drawing by an untalented child, a malformed fetus in a jar of formaldehyde, and a piece of modern art. Others must exert conscious effort to look at him while conversing.",
@@ -1787,7 +1787,7 @@
       "name": "sickly"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 5500,
@@ -1869,7 +1869,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 4000,
       "removePrice": 5500,
       "degree": 0,
       "description": "Timmy finds it difficult to sleep because of his condition. he will prioritize sleep less, wake up sooner, and get less rest from sleeping.",
@@ -1890,18 +1890,18 @@
           "+150% rest rate multiplier"
         ],
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "Psychology (unofficial) v1.1-1.4",
         "karmaTypeForAdding": null
       },
       "defName": "Insomniac",
-      "name": "insomniac"
+      "name": "insomniac2"
     },
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 2700,
       "removePrice": 5500,
       "degree": 0,
       "description": "Timmy has a big heart and gets very emotional. he loves helping people, and abhors violence and injustice. he is more affected by these things than others.",
@@ -1931,7 +1931,7 @@
       "name": "bleedingheart"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 5500,
@@ -1959,7 +1959,7 @@
       "name": "gourmet"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 5500,
@@ -2011,9 +2011,9 @@
       "name": "lecher"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 2500,
       "removePrice": 5500,
       "degree": 0,
       "description": "Timmy is romantically needy and won't be happy unless in a relationship. he will be devastated by infidelity and breakups.",
@@ -2041,7 +2041,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 3800,
       "removePrice": 5500,
       "degree": 0,
       "description": "Timmy loves to be outside. he gets a mood bonus when there is no roof over his head.",
@@ -2131,7 +2131,7 @@
       "name": "socialite"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 5500,
@@ -2163,7 +2163,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 3000,
       "removePrice": 5500,
       "degree": 0,
       "description": "Timmy sleeps like a rock, never bothered by adverse sleeping conditions, but is difficult to wake up.",
@@ -2293,7 +2293,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 3000,
       "removePrice": 5500,
       "degree": 0,
       "description": "Timmy just talks and talks and talks... and talks. he tends to have longer conversations than most, because he can't seem to end them.",
@@ -2347,9 +2347,9 @@
       "name": "robot"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 25,
       "removePrice": 5500,
       "degree": 0,
       "description": "Timmy dislikes children.",
@@ -2371,7 +2371,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 7000,
       "removePrice": 5500,
       "degree": 0,
       "description": "Timmy is the child of a werewolf and will first transfrom when coming of age.",
@@ -2417,7 +2417,7 @@
       "name": "naturalborncolony-child"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 5500,
@@ -2441,7 +2441,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 2500,
       "removePrice": 5500,
       "degree": 0,
       "description": "Timmy tends to occasionally allow their mind to drift, even in the middle of working.",
@@ -2475,7 +2475,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 6000,
       "removePrice": 5500,
       "degree": 0,
       "description": "Timmy has a loose screw or two, a small trade off for being naturally scientifically inclined.",
@@ -2531,7 +2531,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 2000,
       "removePrice": 5500,
       "degree": 0,
       "description": "While fully capable of warfare in theory, Timmy's fight or flight instincts heavily lean towards flight, and he will try to hide or run as a first priority.",
@@ -2550,18 +2550,18 @@
         ],
         "stats": [],
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
         "karmaTypeForAdding": null
       },
       "defName": "VTE_Coward",
-      "name": "coward"
+      "name": "twitchtrollcoward"
     },
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 5000,
       "removePrice": 5500,
       "degree": 0,
       "description": "Timmy has a higher mental and physical fortitude compared to most and can more readily adapt to harsh environments in the rimworlds.",
@@ -2595,7 +2595,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 2300,
       "removePrice": 5500,
       "degree": 0,
       "description": "Minor bruises and scrapes plague Timmy all too often, mostly due to uncoordinated tripping or falling.",
@@ -2679,7 +2679,7 @@
       "name": "coldinclined"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 5500,
@@ -2755,7 +2755,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 4000,
       "removePrice": 5500,
       "degree": 0,
       "description": "Timmy has problems taking breaks or resting mid job. he will continue to work even sacrificing their health or sleep.",
@@ -2813,7 +2813,7 @@
       "name": "ironstomach"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 5500,
@@ -2841,7 +2841,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 6000,
       "removePrice": 5500,
       "degree": 0,
       "description": "Timmy believes deeply in human superiority. Killing animals will please them and the colony losing an animal is a cherry on top according to them.",
@@ -2869,7 +2869,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 3000,
       "removePrice": 5500,
       "degree": 0,
       "description": "Whether because they're a bit chunky or because they shift their weight oddly, Timmy has broken a few chairs in their time and is likely to break more.",
@@ -2999,7 +2999,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 4000,
       "removePrice": 5500,
       "degree": 0,
       "description": "Timmy always recalls the good times and lives to party, any party attended will be remembered for many times longer than most.",
@@ -3025,7 +3025,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 1500,
       "removePrice": 5500,
       "degree": 0,
       "description": "Timmy has hindered mental capacities. While slow to learn and hard to speak with, they tend to be much happier naturally.",
@@ -3139,7 +3139,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 2500,
       "removePrice": 5500,
       "degree": 0,
       "description": "Timmy feels naturally anxious, but especially from social situations. They will not attend any gatherings and may occasionally need alone time in their room to breathe.",
@@ -3227,7 +3227,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 2700,
       "removePrice": 5500,
       "degree": 0,
       "description": "An armchair and flatscreen is all Timmy needs to be happy. Even reruns or ancient commercials are entertaining to them, they will never grow bored of television and tend to watch it more, as well as feel pleased after doing so.",
@@ -3249,7 +3249,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 3000,
       "removePrice": 5500,
       "degree": 0,
       "description": "Timmy is mad for all things feline. They will naturally gravitate towards bonding with cats, however they're not a fan of dogs.",
@@ -3275,7 +3275,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 3000,
       "removePrice": 5500,
       "degree": 0,
       "description": "Timmy is mad for all things canine. They will naturally gravitate towards bonding with dogs, however they're not a fan of cats.",
@@ -3333,7 +3333,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 6000,
       "removePrice": 5500,
       "degree": 0,
       "description": "Timmy believes animals are integral to the way society and life functions from furry friends to sources of food. They love having as many as possible and are particularly good at taming and training them.",
@@ -3435,7 +3435,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 4700,
       "removePrice": 5500,
       "degree": 0,
       "description": "Timmy is supposedly a hand-to-hand combat specialist, but only when inebriated. They claim to become more talented the more drunk they are.",
@@ -3461,7 +3461,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 3000,
       "removePrice": 5500,
       "degree": 0,
       "description": "Timmy is compulsed to steal and take things that don't belong to them, even if it means angering the other party.",
@@ -3577,7 +3577,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 6000,
       "removePrice": 5500,
       "degree": 0,
       "description": "Timmy is never really asleep or awake. he is almost zombie like, lurching along and working very slowly, and will only sleep once every three days or so.",
@@ -3598,16 +3598,16 @@
           "x70% move speed"
         ],
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
         "karmaTypeForAdding": null
       },
       "defName": "VTE_Insomniac",
-      "name": "insomniac"
+      "name": "insomniac1"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 5500,
@@ -3631,7 +3631,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 4300,
       "removePrice": 5500,
       "degree": 0,
       "description": "Timmy is hardened through what can only be presumed as old emotional trauma. They feel absolutely nothing from lost animals, colonists, family, prisoners or dead bodies.",
@@ -3687,7 +3687,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 6400,
       "removePrice": 5500,
       "degree": 0,
       "description": "Whether through studying ancient manuscripts or years of scholastic pursuit Timmy is surprisingly well read on a variety of topics, particularly science and medical practice.",
@@ -3749,7 +3749,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 5500,
       "removePrice": 5500,
       "degree": 0,
       "description": "In the eyes of Timmy food is art, their culinary creations are incredibly beautiful, amazing to taste, and almost always safe to eat.",
@@ -3779,7 +3779,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 7000,
       "removePrice": 5500,
       "degree": 0,
       "description": "Flora and fauna are both vital to Timmy. They use all parts of plants and animals and strongly appreciate mother Gaia's blessings.",
@@ -3811,7 +3811,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 7000,
       "removePrice": 5500,
       "degree": 0,
       "description": "Timmy has an eye for silver and a tongue made from it. They believe their products are the best products and he will likely convince you if given the chance.",
@@ -3891,7 +3891,7 @@
       "name": "thinskinned"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 5500,
@@ -3925,7 +3925,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 2000,
       "removePrice": 5500,
       "degree": 0,
       "description": "Timmy's vulgar jokes, lack of manners and sleazy demeanor tend to drive others away. Thankfully, Timmy doesn't let rejection get them down.",
